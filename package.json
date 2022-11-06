@@ -1,0 +1,15 @@
+{
+  "name": "svgtodxf",
+  "version": "1.0.0",
+  "description": "convert SVG file to DXF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SVG",
+    "DXF"
+  ],
+  "author": "",
+  "license": "ISC"
+}

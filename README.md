@@ -13,10 +13,11 @@ DXF : is short for Drawing Exchange Format or Drawing Interchange Format and is 
 - JavaScript
 - Jquery
 - Nodejs (ExpressJs)
+- vectorexpress (https://www.npmjs.com/package/@vector-express/vectorexpress-nodejs)
 
 ## Run the project
 
 Just clone / download the project to your local machine, and run :
-1- npm install
-2- npm start
-3- go to http://localhost:3000/
+- npm install
+- npm start
+- go to http://localhost:3000/
